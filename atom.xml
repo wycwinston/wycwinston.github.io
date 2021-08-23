@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wycwinston.github.io</id>
     <title>Winston&apos;s blog</title>
-    <updated>2021-08-23T11:15:40.450Z</updated>
+    <updated>2021-08-23T15:31:42.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wycwinston.github.io"/>
     <link rel="self" href="https://wycwinston.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://wycwinston.github.io/images/avatar.png</logo>
     <icon>https://wycwinston.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Winston&apos;s blog</rights>
+    <entry>
+        <title type="html"><![CDATA[阿富汗：塔利班统治下的阴霾]]></title>
+        <id>https://wycwinston.github.io/post/a-fu-han-ta-li-ban-tong-zhi-xia-de-yin-mai/</id>
+        <link href="https://wycwinston.github.io/post/a-fu-han-ta-li-ban-tong-zhi-xia-de-yin-mai/">
+        </link>
+        <updated>2021-08-23T14:46:44.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于博客]]></title>
         <id>https://wycwinston.github.io/post/guan-yu-bo-ke/</id>
