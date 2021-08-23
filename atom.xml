@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wycwinston.github.io</id>
     <title>Winston&apos;s blog</title>
-    <updated>2021-08-23T06:48:05.346Z</updated>
+    <updated>2021-08-23T06:49:17.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wycwinston.github.io"/>
     <link rel="self" href="https://wycwinston.github.io/atom.xml"/>
@@ -10,13 +10,4 @@
     <logo>https://wycwinston.github.io/images/avatar.png</logo>
     <icon>https://wycwinston.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Winston&apos;s blog</rights>
-    <entry>
-        <title type="html"><![CDATA[阿富汗的女人们]]></title>
-        <id>https://wycwinston.github.io/post/a-fu-han-de-nu-ren-men/</id>
-        <link href="https://wycwinston.github.io/post/a-fu-han-de-nu-ren-men/">
-        </link>
-        <updated>2021-08-23T06:35:00.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://wycwinston.github.io/post-images/1629700564481.JPG" alt="" loading="lazy"></figure>
-]]></content>
-    </entry>
 </feed>
